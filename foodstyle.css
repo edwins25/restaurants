@@ -12,13 +12,18 @@ h2{
   font-size: 80px;
   color: Aquamarine ;
   font-family: Impact;
-  text-shadow: 10px 10px 5px Black;
+  text-shadow: 5px 2px 5px Black;
 }
-h4{
-  font-size: 15px;
+h3{
+  text-align: center;
 }
-h6{
-  font-size: 12px;
+ol{
+  text-align: center;
+  font-family: Brush Script MT;
+  font-size: 20px;
+}
+.desc{
+  font-size: 20px;
 }
 td{
   font-family: Brush Script MT;
@@ -40,6 +45,13 @@ td{
 .price{
   font-size: 50px;
 }
-.link{
+.spaced{
   text-align: center;
+}
+.under{
+  font-size: 12px;
+}
+.about{
+  font-size: 50px;
+  font-family: Brush Script MT;
 }
